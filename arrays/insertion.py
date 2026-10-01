@@ -1,5 +1,5 @@
 a=[1,2,3,4,5]
-def traversal(b):
+def traversal(b):c
     print('[',end="")
     for i in range(len(b)-1):
       print(b[i],end=", ")
